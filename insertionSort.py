@@ -1,5 +1,6 @@
 import time
-## O(N^2) Time Complexity 
+# O(N^2) Time Complexity 
+# O(1) Space Complexity 
 def insertSort(data, drawData, timeTick): 
     for i in range (len(data)): 
         j = i 

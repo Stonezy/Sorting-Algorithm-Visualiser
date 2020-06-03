@@ -1,5 +1,6 @@
 import time
 # O(N^2) Time Complexity 
+# O(1) Space Complexity 
 def bubbleSort(data, drawData, timeTick):
     for i in range(0, len(data) - 1): 
         for j in range(0, len(data) - 1 - i): 

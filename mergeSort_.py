@@ -1,7 +1,6 @@
 import time
-
 # O(Nlog(N)) Time Complexity
-
+# O(N) Space Complexity 
 def mergeSort(data, drawData, timeTick): 
     mergeSortAlg(data, 0, len(data)-1, drawData, timeTick)
 
