@@ -8,6 +8,7 @@ Learned how to write
 - Insertion Sort
 - Quick Sort
 - Merge Sort 
+- Heap Sort
 
 Learned about different sorting algorithms and time complexities, O(n^2) for Bubble and Insertion Sort and O(nlogn) for Quick and Merge Sort. 
 Learned how to make simple GUI with tkinter 
